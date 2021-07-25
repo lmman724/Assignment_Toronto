@@ -34,7 +34,7 @@
 32,M1J,Scarborough,Scarborough Village
 33,M2J,North York,"Fairview, Henry Farm, Oriole"
 34,M3J,North York,"Northwood Park, York University"
-35,M4J,East YorkEast Toronto,The Danforth  East
+35,M4J,East York/East Toronto,The Danforth  East
 36,M5J,Downtown Toronto,"Harbourfront East, Union Station, Toronto Islands"
 37,M6J,West Toronto,"Little Portugal, Trinity"
 38,M1K,Scarborough,"Kennedy Park, Ionview, East Birchmount Park"
@@ -75,7 +75,7 @@
 73,M4R,Central Toronto,North Toronto West
 74,M5R,Central Toronto,"The Annex, North Midtown, Yorkville"
 75,M6R,West Toronto,"Parkdale, Roncesvalles"
-76,M7R,MississaugaCanada Post Gateway Processing Centre,Enclave of L4W
+76,M7R,Mississauga,Enclave of L4W
 77,M9R,Etobicoke,"Kingsview Village, St. Phillips, Martin Grove Gardens, Richview Gardens"
 78,M1S,Scarborough,Agincourt
 79,M4S,Central Toronto,Davisville
@@ -91,14 +91,14 @@
 89,M9V,Etobicoke,"South Steeles, Silverstone, Humbergate, Jamestown, Mount Olive, Beaumond Heights, Thistletown, Albion Gardens"
 90,M1W,Scarborough,"Steeles West, L'Amoreaux West"
 91,M4W,Downtown Toronto,Rosedale
-92,M5W,Downtown TorontoStn A PO Boxes25 The Esplanade,Enclave of M5E
+92,M5W,Downtown Toronto Stn A,Enclave of M5E
 93,M8W,Etobicoke,"Alderwood, Long Branch"
-94,M9W,EtobicokeNorthwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale"
+94,M9W,Etobicoke Northwest,"Clairville, Humberwood, Woodbine Downs, West Humber, Kipling Heights, Rexdale, Elms, Tandridge, Old Rexdale"
 95,M1X,Scarborough,Upper Rouge
 96,M4X,Downtown Toronto,"St. James Town, Cabbagetown"
 97,M5X,Downtown Toronto,"First Canadian Place, Underground city"
 98,M8X,Etobicoke,"The Kingsway, Montgomery Road, Old Mill North"
 99,M4Y,Downtown Toronto,Church and Wellesley
-100,M7Y,East TorontoBusiness reply mail Processing Centre969 Eastern,Enclave of M4L
+100,M7Y,East Toronto Business,Enclave of M4L
 101,M8Y,Etobicoke,"Old Mill South, King's Mill Park, Sunnylea, Humber Bay, Mimico NE, The Queensway East, Royal York South East, Kingsway Park South East"
 102,M8Z,Etobicoke,"Mimico NW, The Queensway West, South of Bloor, Kingsway Park South West, Royal York South West"
